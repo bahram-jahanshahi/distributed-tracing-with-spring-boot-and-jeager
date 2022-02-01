@@ -1,1 +1,1 @@
-# Distributed Tracing-with Spring boot and Jeager
+# Distributed Tracing-with Spring boot and Jaeger
